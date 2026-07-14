@@ -46,10 +46,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                <a href="https://github.com/mahranbhat992-bit/Welcome-to-Open-Source">
+
+                <img
+
+                src="https://api.dicebear.com/10.x/croodles/svg"
+                alt="avatar"
+                />
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>chaosbloom</b></sub>
                 </a>
             </td>
         </tr>
